@@ -1,5 +1,5 @@
 # Reconcilable Differences Secret Episode Checker
-If you're too excited to wait for the next episode of Reconcilable Differences to show up on Thursday morning, run this script to see if the episode is available online before the feed is updated. You might even [make Merlin's day](https://twitter.com/hotdogsladies/status/748340960304586754).
+If you're too excited to wait for the new episode of [Reconcilable Differences](https://www.relay.fm/rd) to show up on Thursday morning, run this script to see if it's available before the feed is updated. You might [make Merlin's day](https://twitter.com/hotdogsladies/status/748340960304586754).
 
 ## Installation & Usage
 ```sh
