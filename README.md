@@ -3,8 +3,8 @@ If you're too excited to wait for the next episode of Reconcilable Differences, 
 
 # Usage
 ```sh
-git clone https://github.com/peterwooley/re-checker.git
-cd re-checker
-chmod +x re-checker.pl
-./re-checker.pl 31
+git clone https://github.com/peterwooley/rd-checker.git
+cd rd-checker
+chmod +x rd-checker.pl
+./rd-checker.pl 31
 ```
