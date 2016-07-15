@@ -14,3 +14,6 @@ chmod +x rd-checker.pl
 # If you're not so lucky, it'll print:
 # Episode 42 has not been uploaded yet.
 ```
+
+## A Note on Implementation
+While I spend most of my time writing JavaScript, this was written in Perl as an homage to John Siracusa. Turns out, Perl is a lot of fun.
