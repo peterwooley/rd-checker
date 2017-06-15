@@ -1,5 +1,6 @@
 #!/usr/bin/perl -w
-use lib 'lib';
+use FindBin qw($RealBin);
+use lib "$RealBin/lib";
 use RdChecker qw(check_for_secret_episode);
 
 my ($message, $return_value) = check_for_secret_episode;

@@ -24,7 +24,7 @@ sub get_next_episode {
 sub check_for_secret_episode {
   my $ep = shift // get_next_episode();
   my $padded_ep = sprintf "%0*d", 3, $ep;
-  my $url = "http://traffic.libsyn.com/recdiffs/Reconcilable_Differences_$padded_ep.mp3";
+  my $url = "http://traffic.libsyn.com/recdiffs/recdifferences$padded_ep.mp3";
 
   # Taken from http://stackoverflow.com/a/11448973/1245595
   if (head($url)) {
